@@ -1,0 +1,30 @@
+
+body{
+    
+    background-color: rgb(247, 237, 196);
+    font-size:30px;
+}
+
+
+a:link{
+    color:rgb(191, 245, 137);
+    text-decoration: none;
+    background-color:grey;
+    padding:20px;
+    box-shadow: 3px 3px 6px black;
+}
+
+a:visited{
+    color:rgb(245, 99, 46);
+}
+
+a:hover{
+    color:white;
+    background-color: rgb(33, 33, 158);
+    transition: 2s;
+}
+
+a:active{
+
+    color:fuchsia;
+}
